@@ -35,4 +35,4 @@ def login():
 def load_known_faces():
     known_encodings = []
     known_names = []
-    for file in os.listdir("sample")
+    for file in os.listdir("sample"):
