@@ -1,0 +1,3 @@
+username,password,role,school_code
+teacher1,pass123,teacher,SCHOOL123
+admin1,adminpass,admin,SCHOOL123
